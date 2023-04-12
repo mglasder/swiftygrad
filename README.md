@@ -5,7 +5,7 @@ Swiftygrad is a simple autograd library for Swift inspired by Andrej Kaparthy's 
 
 ### Basic usage
 
-```
+```swift
 
 let a = Value(data: 3.0)
 let x = Value(data: 2.0)
