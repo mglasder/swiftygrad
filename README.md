@@ -1,6 +1,6 @@
 # Swiftygrad
 
-Swiftygrad is a simple autograd library for Swift inspired by Andrej Kaparthy's micrograd for Python (see https://github.com/karpathy/micrograd).
+Swiftygrad is a simple autograd library for Swift inspired by Andrej Karpathy's micrograd for Python (see https://github.com/karpathy/micrograd).
 
 
 ### Basic usage
